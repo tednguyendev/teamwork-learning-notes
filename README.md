@@ -1,1 +1,74 @@
+### [DevOps Foundations: Continuous Integration and Continuous Delivery](https://app.pluralsight.com/library/courses/devops-foundations-continuous-integration-continuous-delivery) (Pluralsight)
+- Benefits
+	- Build and see the see the result fast is better, reduce feedback loop
+- Automation > Manual
+	- Not only because human are prone to error, but also because there are many variables, many diffs between each time we deploy something. That diff better be automated.
+- Just like how manual testing enable a lot of other sub-product benefit, automation CI CD can also enable of a lot more benefits that we didn't thought of on the beginning, like better dev exp, ...
+- CI
+	- Is a development practice that requires developers to integrate code into a shared repository several times a day.
+	- All developers check in their code at least once a day, so we can make sure that everything still compiles and all of the tests still succeed.
+	- In short, it's just:
+		- Plz merge code frequently
+		- The workflows
+			- ![[CleanShot 2023-08-24 at 11.02.41@2x.png]]
+			- Which will test, build, compile, and things, except deploy
+- CDelivery
+	- Is a software development principle where software can be released to production at any time.
+	- In short, it is tools like the capsitrano
+- CDelivery vs CDeployment
+	- CDelivery
+		- Software can be deployed to production any time
+	- CDeployment
+		- Software is automatically deployed to production all the time
+- Full flow
+	- ![[CleanShot 2023-08-24 at 11.09.12@2x.png]]
+	- ![[CleanShot 2023-08-24 at 11.09.45@2x.png]]
+- Deployment types
+	- Blue-green
+		- ![[CleanShot 2023-08-24 at 11.13.40@2x.png]]
+	- Canary
+		- ![[CleanShot 2023-08-24 at 11.14.09@2x.png]]
+	- Feature Flag
+		- ![[CleanShot 2023-08-24 at 11.14.44@2x.png]]
+		- ![[CleanShot 2023-08-24 at 11.15.03@2x.png]]
+	- GitOps
+		- ![[CleanShot 2023-08-24 at 11.16.11@2x.png]]
+- Whatever branches you create, make sure that it results in a common branch used by all and everybody commits to it daily.
+	- A common pitfall here is that organizations create many branches for all sorts of things like separate features or versions of the software.
+		- This can work, but only when they are treated as main branches, meaning that everyone commits to them daily.
+		- Otherwise, the benefits of continuous integration go away, as you would have to do a big manual integration anyway. 
+### [Testing Automation: The Big Picture](https://app.pluralsight.com/library/courses/testing-automation-big-picture/) (Pluralsight)
+- Benefits
+	- ![[CleanShot 2023-08-24 at 14.35.35@2x.png]]
+- The cost increase
+	- ![[CleanShot 2023-08-24 at 14.37.46@2x.png]]
+	- ![[CleanShot 2023-08-24 at 14.38.18@2x.png]]
+- Why cost increase
+	- ![[CleanShot 2023-08-24 at 14.39.21@2x.png]]
+- UnitTest
+	- ![[CleanShot 2023-08-24 at 17.06.34@2x.png]]
+	- A unit test can be something than spans over a class or a file. As long as it work together as a coherent unit of behavior
+		- ![[CleanShot 2023-08-24 at 17.08.03@2x.png]]
+	- Suppose we have unit A, B. Unit A has file A1 A2 A3, unit B has file B1 B2 B3. Test one time 3 files A1 A2 A3 can still be a unit test. But test A and B is integration test. And A to C is integration test.
+- Integration test
+	- When multi unit of behaviors work together
+- But still, integration and unit test is subjective on each team.
+	- If connect external resource, can not be considerated as unit test anymore
+- Subcutaneous test
+	- ![[CleanShot 2023-08-24 at 17.13.11@2x.png]]
+- Comparasation
+	- Scope
+		- ![[CleanShot 2023-08-24 at 17.13.44@2x.png]]
+	- Dimension
+		- ![[CleanShot 2023-08-24 at 17.18.10@2x.png]]
+- Functional User Interface Test
+	- ![[CleanShot 2023-08-24 at 17.17.18@2x.png]]
+- Good amount of test
+	- ![[CleanShot 2023-08-24 at 17.31.43@2x.png]]
+- Exploratory Testing
+	- ![[CleanShot 2023-08-25 at 10.05.45@2x.png]]
+- 
+### [Building a Modern CI/CD Pipeline with Jenkins](https://app.pluralsight.com/library/courses/building-modern-ci-cd-pipeline-jenkins) (Pluralsight)
+
+### [Getting Started with GitHub Actions](https://app.pluralsight.com/library/courses/github-actions-getting-started) (Pluralsight)
 
