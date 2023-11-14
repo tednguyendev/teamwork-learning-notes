@@ -1,1 +1,133 @@
-- 
+# Giving and Receiving Feedback
+- Make it specific
+	- If we make it sounds so vague, the feedback then sounds lazy and lack effort
+- "What can I do better?" > "Wham am I doing wrong?"
+- You can't know your blind spot, because, well, it's your blind spot. But your team can.
+- Pay attention to non-verbal feedbacks from others.
+- Other people's feedback may not 100% wrong and also may not 100% right. Just extract the right from it.
+- An effective test is to choose a scenerio, write down your thoughts about it, then try to be someone outside of the situation, and write down your thoughts about it again. Compare the differences in perspective
+- Development feedback(details ideas on how you can improve) > Evaluative feedback(tests)
+	- DF is more personalized but cost more time
+	- EF is faster but not as helpful
+- Your mood is important.
+	- You have good mood + normal feedback => you feel good
+	- You have bad mood + normal feedback => you feel bad
+	- You have good mood + good feedback => you feel great
+	- You have bad mood + bad feedback => catastrophy
+- If you are not ready, let the others now that you need time to process it
+- Separate opinion and fact
+- We are more focus on negative feedbacks(2/3 energy use for negative, 1/3 for positive). Negative memory store longer, and quicker, in long memory.
+- 6 positive feedback counteract 1 negative feedback. Or at least 2 - 1(positive - negative - positive)
+- Most useful feedback are real time feedbacks
+	- Make informal feedback as most as you can
+- If we know how to receive feedback better, we can also give better feedback
+- You can also ask feedback abt how you receive feedback
+
+# [Building Trust and Collaborating with Others](https://www.linkedin.com/learning/paths/building-trust-and-collaborating-with-others-2)
+## Building trust
+- Trust is something if it's there, no one realize it. But if it's not there, everyone see.
+- We don't trust to mitigate risks
+- 3 ways to gain trust
+	- Competence
+		- Best with bossess of bosses
+		- Asia managers like this
+	- Empathy
+		- Best with direct report
+		- Afrida managers like this
+	- Authenticity
+		- NA EU managers like this
+- Can prioritize based on context also
+- Trust means risk
+- To build trust: Focus on result than process
+- Help your supervisor trust you by communicating about things that used to be obvious.
+	- Especially it's even harder to track as we work remotely now
+	- A bit about your great work will do
+	- Or frequent updates. Never there's too much updates.
+- "Real learning was happening because the teacher assumed the best in them"
+	- 1 way to do that, use the sentence "The story I'm telling myself is __________"
+- What if that people is really a jerk? The intent should still be positive.
+- Sharing about yourself can also build trust.
+	- Talk about yourself -> Be more open -> Connecting -> People understand you -> Build trust -> Better productivity(not need micro checks or micro managements or not need to talk much, as ppl understand and trust each other)
+	- Things to share
+		- Non-work stories
+		- Wins and failures
+		- Feelings about current work events
+- You build trust when you are honest and kind. Don't lie, but also don't be rude.
+- When bosses not trust you or themself, they share little, just bits of ideas at a time, and that make the team not understand not see the full picture, then they will oppose the boss even more.
+- Work hard in you relationships, fill up your emotional bank account, then when you make a withdraw(you make a mistake), you don't bankcrupt the relationship
+## Building Trust and Collaborating with Others
+- Benefits
+	- Collaboration spreads knowledge
+	- Produces a better end result
+	- More fun
+- 1 way to discover and cover the basic before doing anywork
+	- ![[Pasted image 20231107091021.png]]
+- We can not choose our teammates, but we can identify early the gaps(like the skills or the preferrence) and try to close the gaps early
+- Ground rules
+	- At the start, discuss with each member
+		- Reflect on best/worst team experiences
+		- Propose one ground rule
+	- Example
+		- ![[Pasted image 20231107091909.png]]
+		- "Any meetings more than 2 hours should have food"
+	- Vote if everyone adopt the rules
+- Having close relationship with someone is very helpful in work. People be more calm. They trust each others more. They treat issues and problems as objective, not as personal things. You know them, so you know they have good intention.
+- "You can't microwave relationships". It take time
+## Effective Listening
+- Listening focus
+	- Evaluating the content
+		- 1 -> Best
+	- Understanding the big picture
+		- 2
+	- Empathizing with the speaker
+		- 3
+	- Attending to subtle cues
+		- 4
+	- Recalling details
+		- 5
+- Every type of listening shines best in the specific environment
+	- When you go to doctor and he say things you need to pay attention
+		- => Not time for empathizing
+		- => Time for details listening, and the big picture
+	- We usually have a default listening style that we are inclined to, and it's best for us to pick the style based on the situation
+- Listening challenges
+	- Mental filters
+		- Most pervasive
+		- "A dirty filter cause more harm than help"
+		- "We hear what we want to hear"
+		- In short, less bias and conventional thinking. Zoom out. Don't let them prevent us from listen opening.
+	- Multitasking
+		- "Great communication make the opposite person feel like they are the only one in the room"
+	- Distraction by delivery
+		- Remind yourself that you aren't there to judge the delivery abilities of the speaker. Rather, you are here to learn something from what they say.
+	- Information overload
+	- Inappropriate response
+- Take notes differently, based on the purpose
+	- Learning mode
+		- Listen for the big picture
+	- Action mode
+		- Capture particulars
+- Listening Behaviors
+	- Clarify your role
+	- Use effective nonverbals
+	- Honor silence
+	- Paraphrase
+	- Mirror nonverbals
+- Information processing preference
+	- ![[Pasted image 20231110104217.png]]
+	- Men is more on logic, women is more on the other side
+- Some people listen better when they move or fidget. "kinesthesis". Maybe I'm one
+## Having Difficult Conversations
+- If you do not have conflicts, it means you are not growing
+- Take it as an opportinities to growth
+- Factors that impact the situation. The more we answers them first, the more we can make better decisions.
+	- The situation
+		- Something happen that you don't want
+		- Or something not happen but you want to happend
+	- Relationships
+		- It can be someone you care about more than others
+	- Power Structure
+	- The emotions
+		- What are the emotions the other ppl has, or you has
+- It's important to aware of the other person's pattern. And it is also important to aware of your pattern. It's easier to change our pattern and that will affect the other person's pattern
+- "The more people added to a threat, the higher the intensity"
