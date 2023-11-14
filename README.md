@@ -61,14 +61,14 @@
 	- Produces a better end result
 	- More fun
 - 1 way to discover and cover the basic before doing anywork
-	- ![[Pasted image 20231107091021.png]]
+	- ![](Attachments/Pasted%20image%2020231107091021.png)
 - We can not choose our teammates, but we can identify early the gaps(like the skills or the preferrence) and try to close the gaps early
 - Ground rules
 	- At the start, discuss with each member
 		- Reflect on best/worst team experiences
 		- Propose one ground rule
 	- Example
-		- ![[Pasted image 20231107091909.png]]
+		- ![](Attachments/Pasted%20image%2020231107091909.png)
 		- "Any meetings more than 2 hours should have food"
 	- Vote if everyone adopt the rules
 - Having close relationship with someone is very helpful in work. People be more calm. They trust each others more. They treat issues and problems as objective, not as personal things. You know them, so you know they have good intention.
@@ -114,7 +114,7 @@
 	- Paraphrase
 	- Mirror nonverbals
 - Information processing preference
-	- ![[Pasted image 20231110104217.png]]
+	- ![](Attachments/Pasted%20image%2020231110104217.png)
 	- Men is more on logic, women is more on the other side
 - Some people listen better when they move or fidget. "kinesthesis". Maybe I'm one
 ## Having Difficult Conversations
