@@ -1,4 +1,4 @@
-# Giving and Receiving Feedback
+## Giving and Receiving Feedback
 - Make it specific
 	- If we make it sounds so vague, the feedback then sounds lazy and lack effort
 - "What can I do better?" > "Wham am I doing wrong?"
@@ -131,3 +131,111 @@
 		- What are the emotions the other ppl has, or you has
 - It's important to aware of the other person's pattern. And it is also important to aware of your pattern. It's easier to change our pattern and that will affect the other person's pattern
 - "The more people added to a threat, the higher the intensity"
+- Face to face is better, as it show true emotions. Journaling can help too. When in bad mood, don't tell seek other opinions, don't defend yourself, just don't respond. Face-to-face is the best. Or an onling meeting
+- Don't get distracted. Which will make you forget the objective. Or go to past events or non-relevant things
+- 85% of our 60k thoughts daily is negative or repetitive
+- "If we already assume we know someone's motivations, we won't want to seek out to understand them."
+	- Counter confirmation bias by just being curious
+- Be clear about the situation, don't just "complain"
+- Try to not exaggerate when in difficult conversations, which leads to escalation
+	- Owning Your Emotions
+		- "I'm frustrated." vs "Lisa's frustrating me."
+	- Separate experience(frustration) vs issue(Lisa is interuptting people)
+- "Is this conversation worth it"
+	- Focus on what you want > what you don't want
+		- Focus on what you don't want make you procrastinate
+	- If you can see the big picture, the risk turn out to be worth take
+- The more we talk abt the future instead of the past, the more positive our conversations can be
+- When others or you are in negative, ask "What choices do I have". When we have choice, we find power.
+- 4 types of resistence:
+	- SAND
+		- Stuck
+		- Attach
+		- Negative
+		- Distracted
+- Distraction is like avoidance. But avoidance happen before the conversation, distraction is in the conversation
+- The one who listen first will control the conversation
+	- Only once a person feel that he is heard, he start to listen
+	- We don't have to show agree. Just out attentiveness to the conversation
+	- Respond rather than react
+	- After their first expression, pause, then ask them more. Resist the urge to reply/argur
+- The biggest trap is not their resistance. It is your resistance agaisnt their resistance.
+- The resistance has 1 thing in common: The lack of willingness
+- Even if they keep resis, you still has 3 choices
+	- Accept
+	- Set boundary
+	- Make a change
+## Communicating with Diplomacy and Tact
+- We either init a conversation or react to it
+- A tactful and diplomacy message contain the essentials of formulation, politeness, timing consideration, right amount of energy spend on words
+- "Tatiana, thank you for meeting with me. I've been troubled by the way we're handling this project and I wanted to give you my perspective.I know that you and Pat are colleagues and.."
+	- Sometimes, a 2 seconds warm up can help the other receive our request easier
+- Negative politeness
+	- Negative politeness addresses, the need for others to not be imposed upon or inconvenienced Negative. Politeness always involves a layer of deference.
+	- "I'm sorry to bother but do you happen to have the time"
+		- You admit the fact that vou are a possible burden or a disruption? You use the less direct line of, do you happen to versus what time is it.
+- Timing depends on the situation, and most important, the person you are dealing with
+- "When I sense the intense on the emails or messages, I always choose to pick up the phone or to have a short meeting"
+- Every situation is unique, and you need to consider the right:
+	- Audience
+	- Approach
+	- Tone
+	- Channel(way to communicate)
+## Communicating with Empathy
+- 2 types of empathy
+	- emotional empathy
+		- the normal kind
+	- cognitive empathy
+		- the one when we actively empathetic
+- sympathy and empathy
+	- sympathy
+		- focuses on your perspective
+		- describe what we feel abt others
+		- sympathy is feel what the other ppl feeling
+	- empathy
+		- focuses on the other person's perspective.
+		- when we remove our feelings and focus on others
+		- not hijack the conversation like, "nice, when i had that, i did ..."
+- patience not only means to wait for someone to think or do something. it also means slowing down your response to judgement.
+- to practice behavior
+	- observe communication behaviors of others
+	- focus on listening
+	- paraphrase
+	- ask centered questions
+- benefits of asking others to share
+	- they'll ask you to share too
+	- they'll be more likely to listen to you
+	- they may incorporate your ideas into their plan
+- introverts tends to need time alone to process new information
+- to give feedback to others, focus on the major points only, which will help others easier to process 1 by one
+- when talking in groups that's different than ours
+	- eliminate the group
+	- when only 2 ppl(from each group) talking, they more likely to orientate toward solution
+	- each presentation can then talk to their group abt what the other group thinking
+		- people are more open to hear opposing opinions when them come from someone they know
+## Collaborative Leadership
+- "you do not only need to focus on how people work, but also on how people work TOGETHER"
+- the trend of leadership changed from command and control to influence and include
+	- not because of it is wrong, but irrelavant recent days
+- when in group, focus on the quantity of ideas, not quality. encourage everyone to contribute. encourage to either add new ideas or add additions to existing ideas.
+	- 1 phase for idea generation. no judge
+	- 1 phase for idea evalutation
+	- just like the writing process, 1 is writing freely, 1 is editting strictly
+- deal with negative
+	- Use the LCS model
+	- Like - What I like abt your idea
+	- Concerns - What concerns do I have abt your idea
+	- Solve - How we can solve these concerns
+- if 1 person dominate the whole group conversation, break down the group into smaller parts (to reduce the domination)
+- encourage introverts
+	- switch from verbal discussing to writing notes
+- 3 types of people that usually deny collaboration
+	- people that want to keep the knowledge their own
+	- people that stay on the past and find no more use of new knowledge
+	- people find that they already know the answers
+- 3 levels of trust
+	- trust in yourself
+	- trust between team members
+		- competence trust
+		- emotional trust
+	- trust in leader
